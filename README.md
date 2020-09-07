@@ -1,11 +1,11 @@
 ## Hi there, I'm Grigoras Alexandru - aka nuyonu 👋
 
-<p><em>Full Stack .NET Developer at <a href="https://www.endava.com/">Endava</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<!-- <p><em>Full Stack .NET Developer at <a href="https://www.endava.com/">Endava</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> -->
 
 ### Something about me
 
-- 🔭 I’m currently working at [Endava][workingCompany] as a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<!-- - 🔭 I’m currently working at [Endava][workingCompany] as a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 - 🌱 I’m currently learning everything that is new about **.NET Ecosystem** and **Full Stack Web Developer**😊
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on **Full Stack .NET projects**
