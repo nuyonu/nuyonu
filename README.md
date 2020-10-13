@@ -1,5 +1,7 @@
 ## Hi there, I'm Grigoras Alexandru - aka nuyonu 👋
 
+![nuyonu | Profile](https://github.com/nuyonu/nuyonu/workflows/nuyonu%20%7C%20Profile/badge.svg)
+
 <p><em>Full Stack .NET Developer at <a href="https://www.endava.com/">Endava</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
