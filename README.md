@@ -24,9 +24,9 @@
 
 ---
 
+<div align="center">
+  
 ### Languages and Tools:
-
-<div align="left">
 
 [<img alt="Visual Studio" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"/>][linkedin]
 [<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
@@ -48,9 +48,9 @@
 
 ---
 
-### Languages and tools I've worked with in the past:
+<div align="center">
 
-<div align="left">
+### Languages and tools I've worked with in the past:
 
 [<img alt="IntelliJ IDEA" width="35px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" />][mycinema]
 [<img alt="Java" width="35px" src="https://www.crystalmind.ro/wp-content/uploads/2019/08/Java_logo_icon.jpg" />][mycinema]
