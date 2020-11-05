@@ -69,7 +69,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/nuyonu?label=Followers&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=nuyonu)
 
-<!--
 <summary>:zap: Github Stats</summary>
 
 <div align="center">
@@ -77,7 +76,7 @@
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nuyonu&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,00a30b,00cc0e,73FA79&theme=graywhite" />
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyonu&hide_title=true&layout=compact&bg_color=0,73FA79,00cc0e,00a30b&theme=graywhite" />
 
-</div> -->
+</div>
 
 <!-- <img align="left" alt="nuyonu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nuyonu&show_icons=true&hide_border=true" /> -->
 
