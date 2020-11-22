@@ -8,7 +8,7 @@
 ### Something about me
 
 - 🔭 I’m currently working at [Endava][workingCompany] as a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-- 🌱 I’m currently learning everything that is new about **.NET Ecosystem**😊
+- 🌱 I’m currently learning everything that is new about **.NET Ecosystem** and **.NET 5**😊
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on **Full Stack .NET projects**
 <!-- - 🥅 2020 Goals: Work on my projects and contribute more to Open Source projects -->
