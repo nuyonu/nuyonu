@@ -38,7 +38,7 @@
 [<img alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][linkedin]
 [<img alt="Ionic" width="40px" src="https://ionicframework.com/img/meta/logo.png" />][linkedin]
 [<img alt=".NET Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />][linkedin]
-[<img alt="Sql Server" width="40px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />][linkedin]
+<!-- [<img alt="Sql Server" width="40px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />][linkedin] -->
 [<img alt=".NET Framework" width="40px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/ms-.net-framework.jpg?itok=_sHbgY_h" />][linkedin]
 <!-- [<img alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/150px-C_Sharp_logo.svg.png" />][linkedin] -->
 [<img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
