@@ -5,12 +5,10 @@
 <p><em>Full Stack .NET Developer at <a href="https://www.endava.com/">Endava</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Something about me
 
-- 🔭 I’m currently working at [Endava][workingCompany] as a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
-- 🌱 I’m currently learning everything that is new about **.NET Ecosystem** and **.NET 5**😊
+- 🔭 I’m currently working at [Endava][workingCompany] as a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  
+- 🌱 I’m currently learning everything that is new about **.NET Ecosystem** and **.NET 5/6**😊
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on **Full Stack .NET projects**
 <!-- - 🥅 2020 Goals: Work on my projects and contribute more to Open Source projects -->
@@ -22,30 +20,29 @@
 <br/>
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> <img src="https://miro.medium.com/max/842/1*Cp0fpBqgGxt3Sb_mWClqww.gif" width="60">
 
 ---
 
 <div align="center">
-  
-### Languages and Tools:
 
-[<img alt="Visual Studio" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"/>][linkedin]
-[<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-[<img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][linkedin]
-[<img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
-[<img alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][linkedin]
-[<img alt="Ionic" width="40px" src="https://ionicframework.com/img/meta/logo.png" />][linkedin]
-[<img alt=".NET Core" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />][linkedin]
-<!-- [<img alt="Sql Server" width="40px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />][linkedin] -->
-[<img alt=".NET Framework" width="40px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072015/ms-.net-framework.jpg?itok=_sHbgY_h" />][linkedin]
-<!-- [<img alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/150px-C_Sharp_logo.svg.png" />][linkedin] -->
-[<img alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
-[<img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
+### Now i'm working with:
+
+[<img width="50" height="50" src="./assets/images/rider.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/vs.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/vscode.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/csharp.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/html.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/css.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/js.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/ts.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/netcore.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/sqlserver.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/azure.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/git.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/github.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/azuredevops.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/gitlab.png">][linkedin]
 
 </div>
 
@@ -53,15 +50,28 @@
 
 <div align="center">
 
-### Languages and tools I've worked with in the past:
+### I worked with:
 
-[<img alt="IntelliJ IDEA" width="35px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" />][mycinema]
-[<img alt="Java" width="35px" src="https://www.crystalmind.ro/wp-content/uploads/2019/08/Java_logo_icon.jpg" />][mycinema]
-[<img alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][teask]
-[<img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
-[<img alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][teask]
-[<img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][teask]
-<!-- [<img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mycinema] -->
+[<img width="45" height="45" src="./assets/images/java.png">][linkedin]
+[<img width="45" height="45" src="./assets/images/blazor.png">][linkedin]
+[<img width="45" height="45" src="./assets/images/angular.png">][linkedin]
+[<img width="45" height="45" src="./assets/images/mongodb.png">][linkedin]
+
+</div>
+
+---
+
+<div align="center">
+
+### Small knowledge about:
+
+[<img width="40" height="40" src="./assets/images/python.png">][linkedin]
+[<img width="40" height="40" src="./assets/images/php.png">][linkedin]
+[<img width="40" height="40" src="./assets/images/sass.png">][linkedin]
+[<img width="40" height="40" src="./assets/images/ionic.png">][linkedin]
+[<img width="40" height="40" src="./assets/images/nodejs.png">][linkedin]
+[<img width="40" height="40" src="./assets/images/mysql.png">][linkedin]
+[<img width="40" height="40" src="./assets/images/docker.png">][linkedin]
 
 </div>
 
@@ -72,16 +82,14 @@
 ![GitHub followers](https://img.shields.io/github/followers/nuyonu?label=Followers&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=nuyonu)
 
-<summary>:zap: Github Stats</summary>
-
 <div align="center">
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nuyonu&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,00a30b,00cc0e,73FA79&theme=graywhite" />
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyonu&hide_title=true&layout=compact&bg_color=0,73FA79,00cc0e,00a30b&theme=graywhite" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=nuyonu&theme=onedark&margin-w=5&margin-h=5&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img height='130px' src="https://github-readme-stats.vercel.app/api?username=nuyonu&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,00a30b,00cc0e,73FA79&theme=graywhite" />
+<img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyonu&hide_title=true&layout=compact&bg_color=0,73FA79,00cc0e,00a30b&theme=graywhite" />
 
 </div>
-
-<!-- <img align="left" alt="nuyonu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nuyonu&show_icons=true&hide_border=true" /> -->
 
 [linkedin]: https://www.linkedin.com/in/alexandru-ionel-grigoras-054042115/
 [mycinema]: https://github.com/nuyonu/MyCinema
