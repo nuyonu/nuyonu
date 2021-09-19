@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning everything that is new about **.NET Ecosystem** and **.NET 5/6**😊
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on **Full Stack .NET projects**
-<!-- - 🥅 2020 Goals: Work on my projects and contribute more to Open Source projects -->
 - ⚡ Fun fact: I like to learn and read about anything new in the industry and i really like green color 💚
 
 ### Connect with me:
