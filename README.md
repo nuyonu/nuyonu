@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at [Endava][workingCompany] as a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  
 - 🌱 I’m currently learning everything that is new about **.NET Ecosystem** and **.NET 5/6**😊
 - 💬 Ask me about anything, I am happy to help
-- 👯 I’m looking to collaborate on **Full Stack .NET projects**
+- 👯 I’m looking to collaborate on **.NET projects**
 - ⚡ Fun fact: I like to learn and read about anything new in the industry and i really like green color 💚
 
 ### Connect with me:
