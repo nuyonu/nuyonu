@@ -35,6 +35,7 @@
 [<img width="50" height="50" src="./assets/images/css.png">][linkedin]
 [<img width="50" height="50" src="./assets/images/js.png">][linkedin]
 [<img width="50" height="50" src="./assets/images/ts.png">][linkedin]
+[<img width="50" height="50" src="./assets/images/blazor.png">][linkedin]
 [<img width="50" height="50" src="./assets/images/netcore.png">][linkedin]
 [<img width="50" height="50" src="./assets/images/sqlserver.png">][linkedin]
 [<img width="50" height="50" src="./assets/images/azure.png">][linkedin]
@@ -52,7 +53,6 @@
 ### I worked with:
 
 [<img width="45" height="45" src="./assets/images/java.png">][linkedin]
-[<img width="45" height="45" src="./assets/images/blazor.png">][linkedin]
 [<img width="45" height="45" src="./assets/images/angular.png">][linkedin]
 [<img width="45" height="45" src="./assets/images/mongodb.png">][linkedin]
 
