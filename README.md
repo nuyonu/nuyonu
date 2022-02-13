@@ -2,12 +2,9 @@
 
 ![nuyonu | Profile](https://github.com/nuyonu/nuyonu/workflows/nuyonu%20%7C%20Profile/badge.svg)
 
-<p><em>Full Stack .NET Developer at <a href="https://www.endava.com/">Endava</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
 ### Something about me
 
-- 🔭 I’m currently working at [Endava][workingCompany] as a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  
+- 🔭 I’m currently working at [Endava][workingCompany] as a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  and as a **.NET Trainer** at [Wantsome][wantsomeLink] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 - 🌱 I’m currently learning everything that is new about **.NET Ecosystem** and **.NET 5/6**😊
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on **.NET projects**
@@ -95,3 +92,4 @@
 [teask]: https://github.com/nuyonu/TW_TeaSk
 
 [workingCompany]: https://www.endava.com/
+[wantsomeLink]: https://wantsome.ro/
