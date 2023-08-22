@@ -82,6 +82,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nuyonu&theme=onedark&margin-w=5&margin-h=5&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuyonu&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <img height='130px' src="https://github-readme-stats.vercel.app/api?username=nuyonu&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,00a30b,00cc0e,73FA79&theme=graywhite" />
 <img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyonu&hide_title=true&layout=compact&bg_color=0,73FA79,00cc0e,00a30b&theme=graywhite" />
 
