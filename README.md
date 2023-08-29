@@ -2,6 +2,7 @@
 
 ![nuyonu | Profile](https://github.com/nuyonu/nuyonu/workflows/nuyonu%20%7C%20Profile/badge.svg)
 <img src="https://komarev.com/ghpvc/?username=nuyonu&style=flat-square&color=blue" alt=""/>
+![GitHub followers](https://img.shields.io/github/followers/nuyonu?label=Followers&style=social)
 
 ### Something about me
 
@@ -76,7 +77,6 @@
 
 ### Stats
 
-![GitHub followers](https://img.shields.io/github/followers/nuyonu?label=Followers&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=nuyonu)
 
 <div align="center">
