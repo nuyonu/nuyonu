@@ -77,8 +77,6 @@
 
 ### Stats
 
-![](https://visitor-badge.glitch.me/badge?page_id=nuyonu)
-
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nuyonu&theme=onedark&margin-w=5&margin-h=5&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3)](https://github.com/ryo-ma/github-profile-trophy)
