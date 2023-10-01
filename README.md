@@ -7,7 +7,7 @@
 ### Something about me
 
 - 🔭 I’m currently working at [Endava][workingCompany] as a **Senior .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  and as a **.NET Trainer** at [Wantsome][wantsomeLink] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
-- 🌱 I’m currently learning everything that is new about **.NET Ecosystem** and **.NET (2.2+)**😊
+- 🌱 I’m currently learning everything that is new about **.NET Ecosystem**😊
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on **.NET projects**
 - ⚡ Fun fact: I like to learn and read about anything new in the industry and i really like green color 💚
